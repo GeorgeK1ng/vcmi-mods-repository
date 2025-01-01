@@ -21,7 +21,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 		],
-		"downloadSize" : 133.963
+		"downloadSize" : 134.601
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
@@ -326,7 +326,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/ToW-menu.png",
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/WoG-menu.png"
 		],
-		"downloadSize" : 323.615
+		"downloadSize" : 418.264
 	},
 	"creatures-hidden-potential" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.6/creatures-hidden-potential/mod.json",
@@ -541,7 +541,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.4/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.4/screenshots/screen02.png"
 		],
-		"downloadSize" : 16.48
+		"downloadSize" : 16.482
 	},
 	"ab-bad-ending-maps" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.6/AB Bad Ending Maps/mod.json",
@@ -970,6 +970,7 @@
 	},
 	"kremlin-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/kremlin-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/kremlin-town/archive/refs/heads/vcmi-1.6.zip"
+		"download" : "https://github.com/vcmi-mods/kremlin-town/archive/refs/heads/vcmi-1.6.zip",
+		"downloadSize" : 22.921
 	}
 }

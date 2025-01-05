@@ -21,7 +21,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 		],
-		"downloadSize" : 101.52
+		"downloadSize" : 101.521
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
@@ -188,7 +188,7 @@
 	"french-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.6/french-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/french-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 37.703
+		"downloadSize" : 37.709
 	},
 	"vietnamese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.6/vietnamese-translation/mod.json",
@@ -467,7 +467,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/main/Screenshots/Screenshot_20250105_010319.png",
 			"https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/main/Screenshots/Screenshot_20250105_010533.png"
 		],
-		"downloadSize" : 17.291
+		"downloadSize" : 17.292
 	},
 	"hi-rez-menu" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/vcmi-1.6/new-menu/mod.json",
@@ -818,7 +818,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 38.294
+		"downloadSize" : 38.299
 	},
 	"luk3Z-templates-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.6/luk3Z-templates-pack/mod.json",
@@ -971,6 +971,6 @@
 	"kremlin-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/kremlin-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/kremlin-town/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 22.93
+		"downloadSize" : 22.938
 	}
 }

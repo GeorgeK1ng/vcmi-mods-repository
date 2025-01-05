@@ -706,16 +706,6 @@
 		],
 		"downloadSize" : 150.008
 	},
-	"ai-loading-screens" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.6/ai-loading-screens/mod.json",
-		"download" : "https://github.com/vcmi-mods/ai-loading-screens/archive/refs/heads/vcmi-1.6.zip",
-		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/screenshots/screen01.png",
-			"https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/screenshots/screen02.png",
-			"https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/screenshots/screen03.png"
-		],
-		"downloadSize" : 13.429
-	},
 	"h3Evo" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/H3Evo/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/H3Evo/archive/refs/heads/vcmi-1.6.zip",

@@ -21,7 +21,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 		],
-		"downloadSize" : 101.521
+		"downloadSize" : 101.53
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
@@ -89,12 +89,12 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 		],
-		"downloadSize" : 26.548
+		"downloadSize" : 26.541
 	},
 	"highlands-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 13.316
+		"downloadSize" : 13.31
 	},
 	"new-pavilion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.6/New Pavilion/mod.json",
@@ -108,7 +108,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 		],
-		"downloadSize" : 63.335
+		"downloadSize" : 63.336
 	},
 	"cathedral-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/cathedral-town/mod.json",
@@ -198,7 +198,7 @@
 	"polish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.6/polish-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 163.578
+		"downloadSize" : 163.687
 	},
 	"vcmi-mod-ce-ukr" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.6/ce-ukr/mod.json",
@@ -250,7 +250,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumVizier.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumMercenary.png"
 		],
-		"downloadSize" : 3.651
+		"downloadSize" : 3.652
 	},
 	"magic-fader" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.6/mod.json",
@@ -467,7 +467,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/main/Screenshots/Screenshot_20250105_010319.png",
 			"https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/main/Screenshots/Screenshot_20250105_010533.png"
 		],
-		"downloadSize" : 17.292
+		"downloadSize" : 20.023
 	},
 	"hi-rez-menu" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/vcmi-1.6/new-menu/mod.json",
@@ -522,7 +522,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.2/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.2/screenshots/screen02.png"
 		],
-		"downloadSize" : 14.443
+		"downloadSize" : 14.442
 	},
 	"newtown-terrains" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.6/newtown-terrains/mod.json",
@@ -966,7 +966,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/screenshots/screen2.png"
 		],
-		"downloadSize" : 16.497
+		"downloadSize" : 16.487
 	},
 	"kremlin-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/kremlin-town/mod.json",

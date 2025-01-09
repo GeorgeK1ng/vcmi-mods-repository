@@ -108,7 +108,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 		],
-		"downloadSize" : 63.336
+		"downloadSize" : 62.978
 	},
 	"cathedral-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/cathedral-town/mod.json",
@@ -292,7 +292,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.5/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.5/screenshots/screen2.png"
 		],
-		"downloadSize" : 11.111
+		"downloadSize" : 11.117
 	},
 	"ruins-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/ruins-town/mod.json",
@@ -467,7 +467,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/main/Screenshots/Screenshot_20250105_010319.png",
 			"https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/main/Screenshots/Screenshot_20250105_010533.png"
 		],
-		"downloadSize" : 20.023
+		"downloadSize" : 20.024
 	},
 	"hi-rez-menu" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/vcmi-1.6/new-menu/mod.json",

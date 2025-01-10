@@ -977,5 +977,13 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-disable-speedups/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/ai-disable-speedups/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 0.002
+	},
+	"new-skills-pack" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/new-skills-pack/mod.json",
+		"download" : "https://github.com/vcmi-mods/new-skills-pack/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/ScreenShots/Basic Skills.bmp",
+			"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/ScreenShots/Heroes.bmp"
+		]
 	}
 }

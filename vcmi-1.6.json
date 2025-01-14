@@ -375,9 +375,9 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.6/retreat-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/retreat-town/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen3.png"
+			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.6/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.6/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.6/screenshots/screen3.png"
 		],
 		"downloadSize" : 19.507
 	},

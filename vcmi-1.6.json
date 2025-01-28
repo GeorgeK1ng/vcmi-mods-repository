@@ -262,7 +262,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 19.5
+		"downloadSize" : 19.506
 	},
 	"combine-grail" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.6/combine-grail/mod.json",
@@ -560,7 +560,7 @@
 	"warzyw-templates" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.6/warzyw-templates/mod.json",
 		"download" : "https://github.com/vcmi-mods/warzyw-templates/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.56
+		"downloadSize" : 0.128
 	},
 	"ensrick-portraits" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.6/ensrick-portraits/mod.json",
@@ -854,7 +854,7 @@
 	"modder-tools-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 		"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
-		"downloadSize" : 69.956
+		"downloadSize" : 69.96
 	},
 	"heroes-o-pedia" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/heroes-o-pedia/mod.json",
@@ -966,7 +966,7 @@
 	"kremlin-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/kremlin-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/kremlin-town/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 20.68
+		"downloadSize" : 23.397
 	},
 	"ai-disable-speedups" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-disable-speedups/vcmi-1.6/mod.json",

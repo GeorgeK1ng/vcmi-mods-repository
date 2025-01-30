@@ -113,7 +113,7 @@
 	"cathedral-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/cathedral-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/cathedral-town/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 11.136
+		"downloadSize" : 11.186
 	},
 	"death-valley-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.6/death-valley-town/mod.json",
@@ -560,7 +560,7 @@
 	"warzyw-templates" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.6/warzyw-templates/mod.json",
 		"download" : "https://github.com/vcmi-mods/warzyw-templates/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.128
+		"downloadSize" : 0.127
 	},
 	"ensrick-portraits" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.6/ensrick-portraits/mod.json",
@@ -639,7 +639,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen03.png",
 			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen04.png"
 		],
-		"downloadSize" : 35.198
+		"downloadSize" : 35.202
 	},
 	"mighty-heroes-iii" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.6/mighty-heroes-iii/mod.json",

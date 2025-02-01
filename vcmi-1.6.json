@@ -113,6 +113,14 @@
 	"cathedral-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/cathedral-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/cathedral-town/archive/refs/heads/vcmi-1.6.zip",
+
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen3.png"
+		],
+
+
 		"downloadSize" : 12.988
 	},
 	"death-valley-town" : {
@@ -303,11 +311,6 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki3.png"
 		],
 		"downloadSize" : 26.797
-	},
-	"ruins-town-var" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town-var/vcmi-1.6/ruins-town-var/mod.json",
-		"download" : "https://github.com/vcmi-mods/ruins-town-var/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 11.994
 	},
 	"h3-themes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.6/h3-themes/mod.json",

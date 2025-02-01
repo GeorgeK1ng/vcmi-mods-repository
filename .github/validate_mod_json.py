@@ -36,7 +36,7 @@ for filename in glob.glob(os.path.join('.', '*.json')):
                 continue
 
             try:
-                 filecontent = response.read().decode("utf-8")
+                filecontent = response.read().decode("utf-8")
                 jstyleson.load(StringIO(filecontent))
                 print(f"✅ JSON valid")
             except Exception as err:

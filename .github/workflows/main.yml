@@ -69,6 +69,9 @@ jobs:
           git checkout $branch_name || git checkout -b $branch_name
           echo "Checked out branch: $branch_name"
 
+      - name: Set upstream for branch
+        run: git push --set-upstream origin $branch_name
+
       - name: Commit changes to the correct branch
         uses: EndBug/add-and-commit@v9
         with:

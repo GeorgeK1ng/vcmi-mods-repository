@@ -53,6 +53,7 @@ jobs:
           fetch-depth: 0
       - name: Install jstyleson
         run: pip3 install jstyleson
+
       - name: Update size
         run: python3 .github/update_size.py
 
@@ -65,7 +66,8 @@ jobs:
             branch_name=$GITHUB_HEAD_REF
           fi
           echo "branch_name=$branch_name" >> $GITHUB_ENV
-          echo "Switched to branch: $branch_name"
+          git checkout $branch_name || git checkout -b $branch_name
+          echo "Checked out branch: $branch_name"
 
       - name: Commit changes to the correct branch
         uses: EndBug/add-and-commit@v9

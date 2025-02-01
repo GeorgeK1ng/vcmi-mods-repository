@@ -13,6 +13,7 @@ on:
 
 jobs:
   validate_json:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -29,6 +30,7 @@ jobs:
         run: python3 .github/validate_json.py
 
   validate_mod_json:
+    if: github.event_name == 'pull_request'
     needs: validate_json
     runs-on: ubuntu-latest
     defaults:
@@ -42,6 +44,7 @@ jobs:
         run: python3 .github/validate_mod_json.py
 
   update_size:
+    if: github.event_name == 'push'
     needs: validate_json
     runs-on: ubuntu-latest
     defaults:
@@ -60,13 +63,8 @@ jobs:
       - name: Determine branch and switch
         id: branch_info
         run: |
-          if [ -z "$GITHUB_HEAD_REF" ]; then
-            branch_name=$(git symbolic-ref --short HEAD)
-          else
-            branch_name=$GITHUB_HEAD_REF
-          fi
+          branch_name=$(git symbolic-ref --short HEAD)
           echo "branch_name=$branch_name" >> $GITHUB_ENV
-          git checkout $branch_name || git checkout -b $branch_name
           echo "Checked out branch: $branch_name"
 
       - name: Set upstream for branch

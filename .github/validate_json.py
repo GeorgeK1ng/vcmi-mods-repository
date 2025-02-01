@@ -1,8 +1,7 @@
-import json
+import jstyleson
 import glob
 import os
 import sys
-import urllib.request
 
 from ignore_json import ignore
 
@@ -11,14 +10,16 @@ error = False
 for filename in glob.glob(os.path.join('.', '*.json')):
     if filename not in ignore:
         print(f"Opening: {filename}")
-        filecontent = open(filename, "r").read()
+        
+        with open(filename, "r") as file:
+            filecontent = file.read()
 
         try:
-            json.loads(filecontent)
+            jstyleson.loads(filecontent)
             print(f"✅ JSON valid")
         except Exception as err:
             error = True
-            print(f"❌ JSON invalid:")
+            print(f"❌ JSON invalid in {filename}:")
             print(str(err))
 
 if error:

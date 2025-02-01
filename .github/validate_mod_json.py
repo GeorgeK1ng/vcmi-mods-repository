@@ -1,4 +1,4 @@
-import json
+import jstyleson
 import glob
 import os
 import sys
@@ -12,21 +12,29 @@ for filename in glob.glob(os.path.join('.', '*.json')):
     if filename not in ignore:
         print(f"Opening: {filename}")
         filecontent = open(filename, "r").read()
-        modlist = json.loads(filecontent)
+        
+        try:
+            modlist = jstyleson.loads(filecontent)
+        except Exception as err:
+            error = True
+            print(f"❌ Error reading JSON file {filename}: {err}")
+            continue
+
         for mod, data in modlist.items():
             url = data["mod"].replace(" ", "%20")
             print(f"{mod}: {url}")
             try:
                 response = urllib.request.urlopen(url)
                 print(f"✅ Download successful")
-            except:
+            except Exception as err:
                 error = True
-                print("❌ Download failed")
+                print(f"❌ Download failed: {err}")
                 continue
+
             filecontent = response.read()
-            
+
             try:
-                json.loads(filecontent)
+                jstyleson.loads(filecontent)
                 print(f"✅ JSON valid")
             except Exception as err:
                 error = True

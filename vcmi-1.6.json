@@ -21,7 +21,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 		],
-		"downloadSize" : 102.588
+		"downloadSize" : 102.589
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
@@ -113,15 +113,12 @@
 	"cathedral-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/cathedral-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/cathedral-town/archive/refs/heads/vcmi-1.6.zip",
-
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen3.png"
 		],
-
-
-		"downloadSize" : 12.988
+		"downloadSize" : 12.993
 	},
 	"death-valley-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.6/death-valley-town/mod.json",
@@ -310,7 +307,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki3.png"
 		],
-		"downloadSize" : 26.797
+		"downloadSize" : 29.375
 	},
 	"h3-themes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.6/h3-themes/mod.json",
@@ -494,7 +491,7 @@
 	"boost-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.017
+		"downloadSize" : 0.008
 	},
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/vcmi-1.6/mod.json",

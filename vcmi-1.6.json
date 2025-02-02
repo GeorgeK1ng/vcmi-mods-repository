@@ -4,7 +4,7 @@
 		"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 2.175
 	},
-	"horn-of-the-abyss" : {
+	"hota" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/hota/mod.json",
 		"download" : "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
@@ -233,7 +233,7 @@
 		],
 		"downloadSize" : 20.144
 	},
-	"adventure-ai-trace" : {
+	"ai trace" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
 		"download" : "https://github.com/vcmi-mods/adventure-ai-trace/archive/refs/heads/upstream.zip",
 		"downloadSize" : 0.001
@@ -667,7 +667,7 @@
 		],
 		"downloadSize" : 2.449
 	},
-	"kartenarchiv-mappack" : {
+	"kartenarchiv" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kartenarchiv-mappack/vcmi-1.6/kartenarchiv/mod.json",
 		"download" : "https://github.com/vcmi-mods/kartenarchiv-mappack/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 71.573

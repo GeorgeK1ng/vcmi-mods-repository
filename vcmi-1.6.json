@@ -872,15 +872,6 @@
 		],
 		"downloadSize" : 3.501
 	},
-	"chronicles-translation" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chronicles-translation/main/chronicles-translation/mod.json",
-		"download" : "https://github.com/vcmi-mods/chronicles-translation/archive/refs/heads/main.zip",
-		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/chronicles-translation/main/screenshots/screen01.png",
-			"https://raw.githubusercontent.com/vcmi-mods/chronicles-translation/main/screenshots/screen02.png"
-		],
-		"downloadSize" : 3.812
-	},
 	"chronicles-enhanced" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/chronicles-enhanced/mod.json",
 		"download" : "https://github.com/vcmi-mods/chronicles-enhanced/archive/refs/heads/vcmi-1.6.zip",

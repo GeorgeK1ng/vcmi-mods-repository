@@ -178,7 +178,7 @@
 	"czech-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.6/czech-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/czech-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 9.457
+		"downloadSize" : 9.732
 	},
 	"finnish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.6/finnish-translation/mod.json",
@@ -277,7 +277,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/asylum01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumPathfinder.png"
 		],
-		"downloadSize" : 3.652
+		"downloadSize" : 5.603
 	},
 	"grove" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.6/Grove/mod.json",
@@ -662,7 +662,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen03.png",
 			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen04.png"
 		],
-		"downloadSize" : 35.202
+		"downloadSize" : 35.603
 	},
 	"mighty-heroes-iii" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.6/mighty-heroes-iii/mod.json",
@@ -836,7 +836,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 38.299
+		"downloadSize" : 38.302
 	},
 	"luk3Z-templates-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.6/luk3Z-templates-pack/mod.json",
@@ -877,7 +877,7 @@
 	"modder-tools-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 		"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
-		"downloadSize" : 70.024
+		"downloadSize" : 70.098
 	},
 	"heroes-o-pedia" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/heroes-o-pedia/mod.json",
@@ -897,7 +897,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen02.png",
 			"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen03.png"
 		],
-		"downloadSize" : 5.786
+		"downloadSize" : 5.781
 	},
 	"overall-ai-bonus" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/overall-ai-bonus/vcmi-1.6/overall-ai-bonus/mod.json",
@@ -987,7 +987,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen5.png"
 		],
-		"downloadSize" : 46.551
+		"downloadSize" : 46.557
 	},
 	"ai-disable-speedups" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-disable-speedups/vcmi-1.6/mod.json",
@@ -1001,7 +1001,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/ScreenShots/Basic Skills.bmp",
 			"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/ScreenShots/Heroes.bmp"
 		],
-		"downloadSize" : 2.94
+		"downloadSize" : 3.291
 	},
 	"custom-templates" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.6/custom-templates/mod.json",

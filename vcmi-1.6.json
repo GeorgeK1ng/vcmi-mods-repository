@@ -525,11 +525,11 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/refugee-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/refugee-town/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen3.png",
-			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen4.png",
-			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen5.png"
+			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/screenshots/screen5.png"
 		],
 		"downloadSize" : 32.328
 	},

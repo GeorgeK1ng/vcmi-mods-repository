@@ -43,12 +43,7 @@
 	"golemcraft" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/golemcraft/vcmi-1.4/golemcraft/mod.json",
 		"download" : "https://github.com/misiokles/golemcraft/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.073
-	},
-	"ballista-bank" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/ballista-bank/vcmi-1.4/ballista-bank/mod.json",
-		"download" : "https://github.com/misiokles/ballista-bank/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.164
+		"downloadSize" : 0.075
 	},
 	"slothlux-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/slothlux-town/vcmi-1.4/slothlux-town/mod.json",
@@ -68,17 +63,12 @@
 	"h4-arts-hero" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/h4-arts-hero/vcmi-1.4/h4-arts-hero/mod.json",
 		"download" : "https://github.com/misiokles/h4-arts-hero/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.203
+		"downloadSize" : 0.206
 	},
 	"h2-artifacts" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/h2-artifacts/vcmi-1.4/h2-artifacts/mod.json",
 		"download" : "https://github.com/misiokles/h2-artifacts/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 0.173
-	},
-	"abaddon-column" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/abaddon-column/vcmi-1.4/abaddon-column/mod.json",
-		"download" : "https://github.com/misiokles/abaddon-column/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.033
 	},
 	"alpha-mod" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/alpha-mod/vcmi-1.4/alpha-mod/mod.json",
@@ -145,7 +135,7 @@
 			"https://raw.githubusercontent.com/misiokles/fiorin-heroes/vcmi-1.5/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/misiokles/fiorin-heroes/vcmi-1.5/screenshots/screen3.png"
 		],
-		"downloadSize" : 2.521
+		"downloadSize" : 2.525
 	},
 	"plane-of-earth-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/plane-of-earth-town/mod.json",
@@ -156,7 +146,7 @@
 			"https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 14.412
+		"downloadSize" : 14.417
 	},
 	"might-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/might-town/mod.json",
@@ -167,7 +157,7 @@
 			"https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 16.609
+		"downloadSize" : 16.616
 	},
 	"covenant-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/covenant-town/vcmi-1.5/covenant-town/mod.json",
@@ -247,5 +237,15 @@
 			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen3.png"
 		],
 		"downloadSize" : 21.218
+	},
+	"kremlin-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/kremlin-town/vcmi-1.5/kremlin-town/mod.json",
+		"download" : "https://github.com/misiokles/kremlin-town/archive/refs/heads/vcmi-1.5.zip",
+		"downloadSize" : 16.382
+	},
+	"pah3-singleplayer-tournament" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
+		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.6.zip",
+		"downloadSize" : 10.305
 	}
 }

@@ -238,14 +238,26 @@
 		],
 		"downloadSize" : 21.218
 	},
-	"kremlin-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/kremlin-town/vcmi-1.5/kremlin-town/mod.json",
-		"download" : "https://github.com/misiokles/kremlin-town/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 16.382
-	},
 	"pah3-singleplayer-tournament" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
 		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 10.305
+	},
+	"crossroads-of-worlds" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.6/crossroads-of-worlds/mod.json",
+		"download" : "https://github.com/vcmi-mods/crossroads-of-worlds/archive/refs/heads/vcmi-1.6.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen03.png",
+			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen04.png",
+			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen05.png",
+			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen06.png",
+			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen07.png",
+			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen08.png",
+			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen09.png",
+			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen10.png"
+		],
+		"downloadSize" : 151.247
 	}
 }

@@ -750,23 +750,6 @@
 		],
 		"downloadSize" : 34.725
 	},
-	"crossroads-of-worlds" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/crossroads-of-worlds/mod.json",
-		"download" : "https://github.com/vcmi-mods/crossroads-of-worlds/archive/refs/heads/vcmi-1.4.zip",
-		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen01.png",
-			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen02.png",
-			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen03.png",
-			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen04.png",
-			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen05.png",
-			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen06.png",
-			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen07.png",
-			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen08.png",
-			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen09.png",
-			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen10.png"
-		],
-		"downloadSize" : 150.243
-	},
 	"ai-loading-screens" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/ai-loading-screens/mod.json",
 		"download" : "https://github.com/vcmi-mods/ai-loading-screens/archive/refs/heads/vcmi-1.4.zip",

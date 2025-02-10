@@ -21,7 +21,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 		],
-		"downloadSize" : 102.589
+		"downloadSize" : 102.593
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
@@ -89,7 +89,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 		],
-		"downloadSize" : 26.541
+		"downloadSize" : 26.672
 	},
 	"highlands-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/mod.json",
@@ -392,7 +392,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 32.805
+		"downloadSize" : 32.812
 	},
 	"retreat-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.6/retreat-town/mod.json",
@@ -880,7 +880,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen02.png",
 			"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen03.png"
 		],
-		"downloadSize" : 5.781
+		"downloadSize" : 5.775
 	},
 	"overall-ai-bonus" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/overall-ai-bonus/vcmi-1.6/overall-ai-bonus/mod.json",

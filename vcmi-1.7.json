@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 421.945,
+			"downloadSize" : 421.944,
 			"githubStars" : 98
 		},
 		"wake-of-gods" : {
@@ -78,7 +78,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/screenshots/wiki4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/screenshots/wiki5.png"
 			],
-			"downloadSize" : 32.983,
+			"downloadSize" : 32.984,
 			"githubStars" : 8
 		},
 		"neutral-heroes" : {
@@ -312,7 +312,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 22.985,
+			"downloadSize" : 22.986,
 			"githubStars" : 1
 		},
 		"turkish-translation" : {
@@ -334,7 +334,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.7/chinese-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 16.982,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"french-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.7/french-translation/mod.json",

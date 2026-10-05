@@ -351,13 +351,13 @@
 		"polish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.7/polish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 182.206,
+			"downloadSize" : 182.86,
 			"githubStars" : 4
 		},
 		"vcmi-mod-ce-ukr" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/ce-ukr/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 13.8,
+			"downloadSize" : 17.309,
 			"githubStars" : 4,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/screenshots/screen1.png",
@@ -1347,7 +1347,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/romanian-translation/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/romanian-translation/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 6.455,
+			"downloadSize" : 6.545,
 			"githubStars" : 1
 		},
 		"belarusian-translation" : {
@@ -1508,7 +1508,7 @@
 		"cradle-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/cradle-town/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 30.668,
+			"downloadSize" : 30.677,
 			"githubStars" : 3,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen1.png",

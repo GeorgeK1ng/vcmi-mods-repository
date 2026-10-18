@@ -1122,7 +1122,7 @@
 		"czech-map-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-map-pack/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 15.936,
+			"downloadSize" : 16.94,
 			"githubStars" : 1
 		},
 		"modder-tools-pack" : {
@@ -1384,7 +1384,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/screenshots/screen3.png"
 			],
 			"downloadSize" : 1.261,
-			"githubStars" : 8
+			"githubStars" : 9
 		},
 		"diverse-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/diverse-battlefields/vcmi-1.7/diverse-battlefields/mod.json",

@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 421.759,
+			"downloadSize" : 421.76,
 			"githubStars" : 100
 		},
 		"wake-of-gods" : {
@@ -631,7 +631,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.7/screenshots/sc-7.png"
 			],
 			"downloadSize" : 57.493,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"new-interface-mod" : {
 			"mod" : "https://github.com/vcmi-mods/new-interface-mod/releases/download/1.7/mod.json",

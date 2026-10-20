@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
-			"downloadSize" : 441.897,
+			"downloadSize" : 441.714,
 			"githubStars" : 100
 		},
 		"wake-of-gods" : {
@@ -121,7 +121,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 26.736,
+			"downloadSize" : 26.454,
 			"githubStars" : 4
 		},
 		"highlands-town" : {
@@ -1137,7 +1137,7 @@
 		"czech-map-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-map-pack/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 16.94,
+			"downloadSize" : 18.736,
 			"githubStars" : 1
 		},
 		"modder-tools-pack" : {
@@ -1166,7 +1166,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.7/screenshots/screen03.png"
 			],
 			"downloadSize" : 7.361,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"overall-ai-bonus" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/overall-ai-bonus/vcmi-1.7/overall-ai-bonus/mod.json",

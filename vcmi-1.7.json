@@ -32,7 +32,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
 			"downloadSize" : 421.76,
-			"githubStars" : 100
+			"githubStars" : 101
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
@@ -146,7 +146,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/screenshots/screen5.png"
 			],
 			"downloadSize" : 55.1,
-			"githubStars" : 21
+			"githubStars" : 22
 		},
 		"cathedral-town" : {
 			"mod" : "https://github.com/vcmi-mods/cathedral-town/releases/download/1.7/mod.json",
@@ -817,7 +817,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.7/screenshots/Yog.png"
 			],
 			"downloadSize" : 113.098,
-			"githubStars" : 12
+			"githubStars" : 13
 		},
 		"morns-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/morns-battlefields/vcmi-1.7/morns-battlefields/mod.json",
@@ -1441,7 +1441,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/screenshots/screen01.png"
 			],
 			"downloadSize" : 40.64,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"forest-fort" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/forest-fort/mod.json",

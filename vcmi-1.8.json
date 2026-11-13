@@ -661,7 +661,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/mod.json",
 			"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
 			"downloadSize" : 86.749,
-			"githubStars" : 6
+			"githubStars" : 7
 		},
 		"heroes-o-pedia" : {
 			"mod" : "https://github.com/vcmi-mods/heroes-o-pedia/releases/download/1.7/mod.json",
@@ -787,7 +787,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.8/screenshots/Sim-City-map-example.png",
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.8/screenshots/Sim-City-settings.png"
 			],
-			"downloadSize" : 9.27,
+			"downloadSize" : 9.295,
 			"githubStars" : 2
 		},
 		"cheat-mod" : {
@@ -864,7 +864,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.8-latest/screenshots/screenshot-01.png"
 			],
 			"downloadSize" : 47.914,
-			"githubStars" : 19
+			"githubStars" : 20
 		},
 		"tears-of-ashan" : {
 			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/mod.json",
